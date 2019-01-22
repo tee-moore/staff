@@ -3,11 +3,13 @@
 $body-bg: #f8fafc;
 
 // Typography
-$font-family-sans-serif: "Roboto", sans-serif;
-$font-size-base: 0.9rem;
+$roboto-font-path: '../fonts';
+$font-family-roboto: "Roboto", sans-serif;
+$font-family-roboto-condensed: "Roboto-Condensed", sans-serif;
+$font-size-base: 1rem;
 $line-height-base: 1.6;
 
-// Colors
+  // Colors
 $blue: #3490dc;
 $indigo: #6574cd;
 $purple: #9561e2;
@@ -18,3 +20,15 @@ $yellow: #ffed4a;
 $green: #38c172;
 $teal: #4dc0b5;
 $cyan: #6cb2eb;
+
+$white:    #fff;
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+$black:    #000;
